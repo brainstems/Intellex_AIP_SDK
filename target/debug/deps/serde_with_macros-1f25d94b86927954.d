@@ -1,0 +1,8 @@
+/Volumes/Lexar/Development/brainstems/IntellexAIP_SDKv.0.0.1/IAIP_AgentRegistrationContract/target/debug/deps/libserde_with_macros-1f25d94b86927954.dylib: /Users/omarsaadoun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with_macros-3.12.0/src/lib.rs /Users/omarsaadoun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with_macros-3.12.0/src/apply.rs /Users/omarsaadoun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with_macros-3.12.0/src/lazy_bool.rs /Users/omarsaadoun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with_macros-3.12.0/src/utils.rs
+
+/Volumes/Lexar/Development/brainstems/IntellexAIP_SDKv.0.0.1/IAIP_AgentRegistrationContract/target/debug/deps/serde_with_macros-1f25d94b86927954.d: /Users/omarsaadoun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with_macros-3.12.0/src/lib.rs /Users/omarsaadoun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with_macros-3.12.0/src/apply.rs /Users/omarsaadoun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with_macros-3.12.0/src/lazy_bool.rs /Users/omarsaadoun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with_macros-3.12.0/src/utils.rs
+
+/Users/omarsaadoun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with_macros-3.12.0/src/lib.rs:
+/Users/omarsaadoun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with_macros-3.12.0/src/apply.rs:
+/Users/omarsaadoun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with_macros-3.12.0/src/lazy_bool.rs:
+/Users/omarsaadoun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with_macros-3.12.0/src/utils.rs:
